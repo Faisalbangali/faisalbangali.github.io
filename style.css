@@ -256,6 +256,13 @@ nav ul li a {
     width: 100%;
   }
 }
+#videos {
+  width: 100%;
+  padding: 70px 0;
+  background: #efefef;
+}
+.vid {
+}
 #service {
   width: 100%;
   padding: 70px 0;
